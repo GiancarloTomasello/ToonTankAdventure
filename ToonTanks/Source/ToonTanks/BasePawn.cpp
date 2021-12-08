@@ -25,6 +25,7 @@ ABasePawn::ABasePawn()
 
 	ProjectileSpawnPoint = CreateDefaultSubobject<USceneComponent>(TEXT("Projectile Spawn"));
 	ProjectileSpawnPoint->SetupAttachment(TurretMesh);
+
 }
 
 // Called when the game starts or when spawned

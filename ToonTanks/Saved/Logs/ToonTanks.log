@@ -808,3 +808,155 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.08-18.25.55:961][448]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.08-18.25.55:961][448]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
 [2021.12.08-18.25.55:961][448]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.12.08-18.33.04:671][ 94]LogSlate: Took 0.026688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.08-18.33.09:537][658]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.12.08-18.33.09:537][658]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.12.08-18.35.02:057][257]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-18.35.02:346][257]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2021.12.08-18.35.56:140][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.12.08-18.35.56:141][165]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.023
+[2021.12.08-18.35.56:142][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_TurretTurret] ([1] browsable assets)...
+[2021.12.08-18.35.56:142][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_TurretTurret]
+[2021.12.08-18.35.56:147][165]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_TurretTurret_Auto248A2349D46E97D0F0F6031A3F9B21A9F.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawns/BP_TurretTurret_Auto2.uasset'
+[2021.12.08-18.35.56:147][165]LogFileHelpers: Auto-saving content packages took 0.006
+[2021.12.08-19.40.38:891][992]Candidate modules for hot reload:
+[2021.12.08-19.40.38:891][992]  ToonTanks
+[2021.12.08-19.40.38:891][992]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,9597 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-19.40.38:895][992]Warning: Starting HotReload took  0.0s.
+[2021.12.08-19.40.52:355][242]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 3:40:52 AM
+[2021.12.08-19.40.52:355][242]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-19.40.52:356][242]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-19.40.52:356][242]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-19.40.52:356][242]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(33)  : LogCompile: Error: BlueprintReadWrite should not be used on private members
+[2021.12.08-19.40.52:356][242]LogMainFrame: MainFrame: Module compiling took 13.467 seconds
+[2021.12.08-19.40.52:356][242]Warning: HotReload failed, recompile failed
+[2021.12.08-19.42.08:733][349]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-19.42.08:738][349]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-19.42.09:278][412]Candidate modules for hot reload:
+[2021.12.08-19.42.09:278][412]  ToonTanks
+[2021.12.08-19.42.09:279][412]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,8961 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-19.42.09:282][412]Warning: Starting HotReload took  0.0s.
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 3:42:18 AM
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 5.6971531 seconds
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   [1/6] ToonTanks.init.gen.cpp
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   [2/6] BasePawn.cpp
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   [3/6] BasePawn.gen.cpp
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   [4/6] UE4Editor-ToonTanks-8961.lib
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-8961.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-8961.exp
+[2021.12.08-19.42.18:122][435]CompilerResultsLog:   [5/6] UE4Editor-ToonTanks-8961.dll
+[2021.12.08-19.42.18:122][435]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-8961.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-8961.suppressed.exp
+[2021.12.08-19.42.18:122][435]CompilerResultsLog:   [6/6] ToonTanksEditor.target
+[2021.12.08-19.42.18:122][435]CompilerResultsLog: Total time in Parallel executor: 2.38 seconds
+[2021.12.08-19.42.18:122][435]CompilerResultsLog: Total execution time: 8.76 seconds
+[2021.12.08-19.42.18:122][435]LogMainFrame: MainFrame: Module compiling took 8.847 seconds
+[2021.12.08-19.42.18:580][435]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.08-19.42.18:587][435]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.12.08-19.42.18:634][435]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.12.08-19.42.18:637][435]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.08-19.42.18:655][435]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3428 classes and 823 folders.
+[2021.12.08-19.42.18:655][435]Display: HotReload took  9.4s.
+[2021.12.08-19.54.58:340][189]Candidate modules for hot reload:
+[2021.12.08-19.54.58:340][189]  ToonTanks
+[2021.12.08-19.54.58:341][189]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,8604 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-19.54.58:344][189]Warning: Starting HotReload took  0.0s.
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 3:55:05 AM
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-19.55.05:002][756]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(27)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(31)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(33)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(35)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2021.12.08-19.55.05:002][756]LogMainFrame: MainFrame: Module compiling took 6.665 seconds
+[2021.12.08-19.55.05:002][756]Warning: HotReload failed, recompile failed
+[2021.12.08-19.55.33:813][274]Candidate modules for hot reload:
+[2021.12.08-19.55.33:813][274]  ToonTanks
+[2021.12.08-19.55.33:813][274]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,3200 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-19.55.33:817][274]Warning: Starting HotReload took  0.0s.
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 3:55:42 AM
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 5.6858225 seconds
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [1/6] ToonTanks.init.gen.cpp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [2/6] BasePawn.cpp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [3/6] BasePawn.gen.cpp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [4/6] UE4Editor-ToonTanks-3200.lib
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3200.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3200.exp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [5/6] UE4Editor-ToonTanks-3200.dll
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3200.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3200.suppressed.exp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [6/6] ToonTanksEditor.target
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Total time in Parallel executor: 1.82 seconds
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Total execution time: 8.23 seconds
+[2021.12.08-19.55.42:371][321]LogMainFrame: MainFrame: Module compiling took 8.561 seconds
+[2021.12.08-19.55.42:413][321]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.08-19.55.42:420][321]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.12.08-19.55.42:486][321]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.12.08-19.55.42:492][321]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.08-19.55.42:509][321]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3428 classes and 823 folders.
+[2021.12.08-19.55.42:509][321]Display: HotReload took  8.7s.
+[2021.12.08-19.57.41:945][959]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-19.57.41:951][959]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-19.57.45:749][396]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-19.57.45:749][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-19.57.46:102][431]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.08-19.57.46:102][431]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-19.57.46:102][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-19.57.47:560][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-19.57.50:153][860]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-19.57.50:153][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-19.57.50:215][860]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-19.57.54:303][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-19.57.55:832][429]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-19.57.55:832][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-19.57.55:889][429]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-19.59.09:599][540]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.12.08-19.59.09:601][540]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.154
+[2021.12.08-19.59.09:601][540]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_PawnTank] ([1] browsable assets)...
+[2021.12.08-19.59.09:654][540]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank]
+[2021.12.08-19.59.09:654][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_PawnTank]
+[2021.12.08-19.59.09:671][540]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTank_Auto3BA7C5F9940D743B063EF19947A7DD52E.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawns/BP_PawnTank_Auto3.uasset'
+[2021.12.08-19.59.09:673][540]LogFileHelpers: Auto-saving content packages took 0.073
+[2021.12.08-20.00.00:020][145]LogEditorTransaction: Undo Set Vector Property
+[2021.12.08-20.01.04:308][731]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTank5EF152B449136C40F0A50BB4B501507B.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.01.04:324][731]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.01.04:324][731]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.01.13:219][776]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTankF4AB59434613E1D797CDC8B1386BBEA1.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.01.13:233][776]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.01.13:233][776]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.03.20:289][762]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTank4BD403E54A5BEB252976B6BC8DC702D1.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.03.20:304][762]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.03.20:304][762]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.03.31:258][ 55]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_TurretTurret9882B4224CE84973C6D7E1A1D7990E4A.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_TurretTurret.uasset'
+[2021.12.08-20.03.31:272][ 55]AssetCheck: New page: Asset Save: BP_TurretTurret
+[2021.12.08-20.03.31:272][ 55]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-20.04.43:155][636]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTankEDDD4BCB4489A35A7B154C9AC1252280.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.04.43:172][636]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.04.43:172][636]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.05.35:605][655]LogEditorTransaction: Undo Set Vector Property
+[2021.12.08-20.05.46:389][898]LogEditorTransaction: Undo Edit Y
+[2021.12.08-20.06.11:566][872]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_TurretTurret5EBAA769466E8599722AC28002721534.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_TurretTurret.uasset'
+[2021.12.08-20.06.11:581][872]AssetCheck: New page: Asset Save: BP_TurretTurret
+[2021.12.08-20.06.11:581][872]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-20.06.31:529][694]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_TurretTurretCA853C704DF8C13AF8E978855D86B0E4.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_TurretTurret.uasset'
+[2021.12.08-20.06.31:542][694]AssetCheck: New page: Asset Save: BP_TurretTurret
+[2021.12.08-20.06.31:542][694]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-20.06.32:418][796]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTank514BDAE342B211EA61B810AF3C6CC43A.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.06.32:430][796]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.06.32:431][796]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.06.59:131][560]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.12.08-20.06.59:156][560]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Main68292D09453B8777AD6BABA7D23B090C.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main.umap'
+[2021.12.08-20.06.59:173][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.12.08-20.06.59:189][560]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Main_BuiltData38D85EB341C91DC00D979DB650C925E9.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.12.08-20.06.59:205][560]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.08-20.06.59:205][560]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.12.08-20.06.59:205][560]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
