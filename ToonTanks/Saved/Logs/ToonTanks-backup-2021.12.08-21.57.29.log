@@ -1,0 +1,1141 @@
+﻿Log file open, 12/08/21 09:55:19
+LogInit: Display: Running engine for game: ToonTanks
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197718
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.08-17.55.20:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.08-17.55.20:446][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.08-17.55.20:446][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.08-17.55.20:450][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.08-17.55.20:450][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.12.08-17.55.20:451][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.08-17.55.20:451][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.08-17.55.20:451][  0]LogHAL: Display: Platform has ~ 16 GB [17081307136 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.08-17.55.20:451][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.08-17.55.20:451][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.08-17.55.20:451][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Scalability.ini]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.12.08-17.55.20:452][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.08-17.55.20:452][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.08-17.55.20:453][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.08-17.55.20:453][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.08-17.55.20:453][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Config/Windows/Engine.ini]
+[2021.12.08-17.55.20:453][  0]LogInit: Computer: FRANKEN-PC
+[2021.12.08-17.55.20:453][  0]LogInit: User: Luigi
+[2021.12.08-17.55.20:453][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.12.08-17.55.20:453][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.08-17.55.20:453][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.12.08-17.55.20:453][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.08-17.55.20:453][  0]LogMemory: Process Physical Memory: 119.71 MB used, 119.71 MB peak
+[2021.12.08-17.55.20:453][  0]LogMemory: Process Virtual Memory: 109.31 MB used, 109.31 MB peak
+[2021.12.08-17.55.20:453][  0]LogMemory: Physical Memory: 7899.46 MB used,  8390.54 MB free, 16290.00 MB total
+[2021.12.08-17.55.20:453][  0]LogMemory: Virtual Memory: 5217.09 MB used,  134212512.00 MB free, 134217728.00 MB total
+[2021.12.08-17.55.20:457][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.08-17.55.20:499][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.08-17.55.20:500][  0]LogInit: Using OS detected language (en-US).
+[2021.12.08-17.55.20:500][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.08-17.55.20:506][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.08-17.55.20:665][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.08-17.55.20:697][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.08-17.55.20:697][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.08-17.55.20:848][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2021.12.08-17.55.20:848][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.08-17.55.20:848][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.08-17.55.20:848][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.08-17.55.20:931][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.12.08-17.55.20:931][  0]LogD3D11RHI:       8088/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.12.08-17.55.20:933][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.08-17.55.20:933][  0]LogD3D11RHI:       0/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.08-17.55.20:933][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.08-17.55.20:940][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.08-17.55.20:940][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.08-17.55.20:940][  0]LogWindows: EnumDisplayDevices:
+[2021.12.08-17.55.20:940][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.12.08-17.55.20:941][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.12.08-17.55.20:941][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.12.08-17.55.20:941][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.12.08-17.55.20:941][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.08-17.55.20:941][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.12.08-17.55.20:941][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2021.12.08-17.55.20:941][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2021.12.08-17.55.20:941][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.12.08-17.55.20:996][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.08-17.55.20:996][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.08-17.55.20:996][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.08-17.55.21:022][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.08-17.55.21:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.08-17.55.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.08-17.55.21:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.08-17.55.21:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.08-17.55.21:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.08-17.55.21:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.08-17.55.21:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.08-17.55.21:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.08-17.55.21:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.08-17.55.21:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.08-17.55.21:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.08-17.55.21:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.08-17.55.21:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.08-17.55.21:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.08-17.55.21:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.08-17.55.21:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.08-17.55.21:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.08-17.55.21:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.08-17.55.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.08-17.55.21:476][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.08-17.55.21:483][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.08-17.55.21:533][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Intermediate/Shaders/WorkingDirectory/16008/).
+[2021.12.08-17.55.21:533][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luigi/AppData/Local/Temp/UnrealShaderWorkingDir/CBF0C9324918E289C54B469F78C4BD84/'.
+[2021.12.08-17.55.21:534][  0]LogXGEController: Cleaning working directory: C:/Users/Luigi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.12.08-17.55.21:534][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.08-17.55.21:534][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.08-17.55.21:534][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.08-17.55.22:193][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.08-17.55.22:235][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/Luigi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.12.08-17.55.22:235][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luigi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.12.08-17.55.22:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.08-17.55.22:236][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.08-17.55.22:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.08-17.55.22:236][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.08-17.55.22:247][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.08-17.55.22:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.08-17.55.22:247][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.08-17.55.22:248][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luigi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.08-17.55.22:248][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.08-17.55.22:248][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.08-17.55.22:295][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.08-17.55.22:295][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.08-17.55.22:316][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.12.08-17.55.22:530][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.08-17.55.22:625][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.08-17.55.22:625][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.08-17.55.22:625][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.08-17.55.22:625][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.08-17.55.22:625][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.08-17.55.22:640][  0]LogNetVersion: ToonTanks 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 281104731)
+[2021.12.08-17.55.23:002][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002BE4A78C480), frame # 0
+[2021.12.08-17.55.23:002][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002BE4A6BFEC0), frame # 0
+[2021.12.08-17.55.23:003][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002BE4A750800), frame # 0
+[2021.12.08-17.55.23:046][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.038095 seconds
+[2021.12.08-17.55.23:052][  0]LogUObjectArray: 15913 objects as part of root set at end of initial load.
+[2021.12.08-17.55.23:052][  0]LogUObjectAllocator: 3964304 out of 0 bytes used by permanent object pool.
+[2021.12.08-17.55.23:052][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.08-17.55.23:340][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.08-17.55.23:344][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.08-17.55.23:410][  0]SourceControl: Source control is disabled
+[2021.12.08-17.55.23:410][  0]SourceControl: Source control is disabled
+[2021.12.08-17.55.23:413][  0]SourceControl: Source control is disabled
+[2021.12.08-17.55.23:415][  0]SourceControl: Source control is disabled
+[2021.12.08-17.55.23:420][  0]SourceControl: Source control is disabled
+[2021.12.08-17.55.23:627][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.08-17.55.23:643][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.08-17.55.23:643][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.08-17.55.23:685][  0]LogOcInput: OculusInput pre-init called
+[2021.12.08-17.55.23:894][  0]LogEngine: Initializing Engine...
+[2021.12.08-17.55.23:956][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.12.08-17.55.23:956][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.08-17.55.23:957][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.08-17.55.24:051][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.08-17.55.24:059][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.08-17.55.24:059][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002BE4E902000), frame # 0
+[2021.12.08-17.55.24:059][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002BE4E93D800), frame # 0
+[2021.12.08-17.55.24:072][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.08-17.55.24:072][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.08-17.55.24:072][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.08-17.55.24:072][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.08-17.55.24:072][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.08-17.55.24:072][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.08-17.55.24:072][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.08-17.55.24:073][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.08-17.55.24:073][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.08-17.55.24:073][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.08-17.55.24:087][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.08-17.55.24:087][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.08-17.55.24:118][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.12.08-17.55.24:121][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.08-17.55.24:123][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.08-17.55.24:123][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.08-17.55.24:123][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.08-17.55.24:125][  0]LogInit: FAudioDevice initialized.
+[2021.12.08-17.55.24:125][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.08-17.55.24:583][  0]LogDerivedDataCache: Saved boot cache 0.46s 78MB C:/Users/Luigi/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.12.08-17.55.24:584][  0]LogInit: Texture streaming: Enabled
+[2021.12.08-17.55.24:597][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.08-17.55.24:597][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.08-17.55.24:598][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.08-17.55.24:638][  0]LogInit: Transaction tracking system initialized
+[2021.12.08-17.55.24:657][  0]BlueprintLog: New page: Editor Load
+[2021.12.08-17.55.24:714][  0]LocalizationService: Localization service is disabled
+[2021.12.08-17.55.24:843][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.12.08-17.55.24:843][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.08-17.55.24:954][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/' took 0.00s
+[2021.12.08-17.55.25:107][  0]SourceControl: Source control is disabled
+[2021.12.08-17.55.25:107][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.832
+[2021.12.08-17.55.25:107][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.08-17.55.25:107][  0]LightingResults: New page: Lighting Build
+[2021.12.08-17.55.25:108][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-17.55.25:108][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-17.55.25:108][  0]MapCheck: New page: Map Check
+[2021.12.08-17.55.25:108][  0]LightingResults: New page: Lighting Build
+[2021.12.08-17.55.25:123][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002BE4E902000), frame # 0
+[2021.12.08-17.55.25:123][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002BE4E93D800), frame # 0
+[2021.12.08-17.55.25:124][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.12.08-17.55.25:199][  0]LogAIModule: Creating AISystem for world Main
+[2021.12.08-17.55.25:200][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002BE54F8A000), frame # 0
+[2021.12.08-17.55.25:200][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002BE49CF2200), frame # 0
+[2021.12.08-17.55.25:203][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.08-17.55.25:215][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.12.08-17.55.25:216][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.08-17.55.25:217][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.854ms to complete.
+[2021.12.08-17.55.25:217][  0]LogFileHelpers: Loading map 'Main' took 0.110
+[2021.12.08-17.55.25:221][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.946
+[2021.12.08-17.55.25:332][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.08-17.55.25:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.08-17.55.25:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.08-17.55.25:350][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.08-17.55.25:357][  0]LogCollectionManager: Loaded 0 collections in 0.001835 seconds
+[2021.12.08-17.55.25:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Collections/' took 0.00s
+[2021.12.08-17.55.25:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Developers/Luigi/Collections/' took 0.00s
+[2021.12.08-17.55.25:371][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Collections/' took 0.00s
+[2021.12.08-17.55.25:371][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 3428 classes and 823 folders.
+[2021.12.08-17.55.25:373][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.08-17.55.25:425][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.08-17.55.25:428][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.12.08-17.55.25:452][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.08-17.55.25:454][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.08-17.55.25:458][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.08-17.55.25:510][  0]LogRenderer: Reallocating scene render targets to support 1208x604 Format 10 NumSamples 1 (Frame:1).
+[2021.12.08-17.55.25:540][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.08-17.55.25:576][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.12.08-17.55.25:576][  0]LogLoad: (Engine Initialization) Total time: 7.30 seconds
+[2021.12.08-17.55.25:576][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.08-17.55.25:608][  0]LogAssetRegistry: Asset discovery search completed in 3.2927 seconds
+[2021.12.08-17.55.25:611][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.12.08-17.55.25:612][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.08-17.55.32:325][210]Candidate modules for hot reload:
+[2021.12.08-17.55.32:325][210]  ToonTanks
+[2021.12.08-17.55.32:325][210]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,788 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-17.55.32:329][210]Warning: Starting HotReload took  0.0s.
+[2021.12.08-17.55.50:592][360]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 1:55:50 AM
+[2021.12.08-17.55.50:592][360]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-17.55.50:592][360]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-17.55.50:592][360]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-17.55.50:592][360]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.12.08-17.55.50:592][360]CompilerResultsLog:   [1/6] BasePawn.cpp
+[2021.12.08-17.55.50:592][360]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(16) : error C2065: 'CapsuleComp': undeclared identifier
+[2021.12.08-17.55.50:592][360]CompilerResultsLog:   [2/6] ToonTanks.init.gen.cpp
+[2021.12.08-17.55.50:592][360]CompilerResultsLog:   [3/6] BasePawn.gen.cpp
+[2021.12.08-17.55.50:592][360]LogMainFrame: MainFrame: Module compiling took 18.270 seconds
+[2021.12.08-17.55.50:592][360]Warning: HotReload failed, recompile failed
+[2021.12.08-17.55.53:919][753]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.08-17.56.10:930][387]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-17.56.10:935][387]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-17.56.11:408][442]Candidate modules for hot reload:
+[2021.12.08-17.56.11:408][442]  ToonTanks
+[2021.12.08-17.56.11:408][442]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1766 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-17.56.11:411][442]Warning: Starting HotReload took  0.0s.
+[2021.12.08-17.56.18:437][479]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 1:56:18 AM
+[2021.12.08-17.56.18:438][479]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-17.56.18:438][479]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-17.56.18:438][479]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-17.56.18:438][479]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.08-17.56.18:438][479]CompilerResultsLog:   [1/4] BasePawn.cpp
+[2021.12.08-17.56.18:438][479]CompilerResultsLog:   [2/4] UE4Editor-ToonTanks-1766.lib
+[2021.12.08-17.56.18:438][479]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1766.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1766.exp
+[2021.12.08-17.56.18:438][479]CompilerResultsLog:   [3/4] UE4Editor-ToonTanks-1766.dll
+[2021.12.08-17.56.18:438][479]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1766.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1766.suppressed.exp
+[2021.12.08-17.56.18:438][479]CompilerResultsLog:   [4/4] ToonTanksEditor.target
+[2021.12.08-17.56.18:438][479]CompilerResultsLog: Total time in Parallel executor: 6.13 seconds
+[2021.12.08-17.56.18:438][479]CompilerResultsLog: Total execution time: 6.72 seconds
+[2021.12.08-17.56.18:438][479]LogMainFrame: MainFrame: Module compiling took 7.032 seconds
+[2021.12.08-17.56.18:749][479]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.08-17.56.18:752][479]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.12.08-17.56.18:803][479]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.12.08-17.56.18:804][479]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.08-17.56.18:817][479]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 3428 classes and 823 folders.
+[2021.12.08-17.56.18:818][479]Display: HotReload took  7.4s.
+[2021.12.08-17.57.17:369][657]LogEditor: Attempting to add actor of class 'BasePawn' to level at -100.00,510.00,52.00
+[2021.12.08-17.57.17:853][711]LogEditor: Attempting to add actor of class 'BasePawn' to level at -20.00,320.00,52.00
+[2021.12.08-17.57.19:299][882]Cmd: DELETE
+[2021.12.08-17.57.19:299][882]Cmd: ACTOR DELETE
+[2021.12.08-17.57.19:301][882]LogEditorActor: Deleted Actor: BasePawn
+[2021.12.08-17.57.19:312][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.08-17.57.19:314][882]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.12.08-18.05.17:141][876]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.08-18.05.25:837][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.12.08-18.05.25:853][902]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Main_Auto139A8B77D4CB830157AA0DE80C1FC817A.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto1.umap'
+[2021.12.08-18.05.25:853][902]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.026
+[2021.12.08-18.05.25:853][902]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.026
+[2021.12.08-18.15.26:768][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.12.08-18.15.26:769][701]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.011
+[2021.12.08-18.20.54:059][766]Candidate modules for hot reload:
+[2021.12.08-18.20.54:059][766]  ToonTanks
+[2021.12.08-18.20.54:059][766]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1055 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-18.20.54:062][766]Warning: Starting HotReload took  0.0s.
+[2021.12.08-18.21.02:106][697]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 2:21:02 AM
+[2021.12.08-18.21.02:106][697]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-18.21.02:106][697]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-18.21.02:106][697]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 5.7740528 seconds
+[2021.12.08-18.21.02:106][697]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-18.21.02:106][697]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-18.21.02:106][697]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:   [1/6] BasePawn.cpp
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(21) : error C2039: 'SetUpAttatchment': is not a member of 'UStaticMeshComponent'
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h(31): note: see declaration of 'UStaticMeshComponent'
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(24) : error C2146: syntax error: missing ';' before identifier 'TurretMesh'
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(24) : error C2039: 'SetUpAttatchment': is not a member of 'UStaticMeshComponent'
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h(31): note: see declaration of 'UStaticMeshComponent'
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(27) : error C2146: syntax error: missing ';' before identifier 'ProjectileSpawnPoint'
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(27) : error C2039: 'SetUpAttatchment': is not a member of 'USceneComponent'
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h(13): note: see declaration of 'USceneComponent'
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:   [2/6] ToonTanks.init.gen.cpp
+[2021.12.08-18.21.02:106][697]CompilerResultsLog:   [3/6] BasePawn.gen.cpp
+[2021.12.08-18.21.02:106][697]LogMainFrame: MainFrame: Module compiling took 8.050 seconds
+[2021.12.08-18.21.02:107][697]Warning: HotReload failed, recompile failed
+[2021.12.08-18.21.34:273][126]Candidate modules for hot reload:
+[2021.12.08-18.21.34:273][126]  ToonTanks
+[2021.12.08-18.21.34:273][126]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1251 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-18.21.34:276][126]Warning: Starting HotReload took  0.0s.
+[2021.12.08-18.21.35:508][160]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 2:21:35 AM
+[2021.12.08-18.21.35:508][160]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-18.21.35:508][160]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-18.21.35:508][160]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-18.21.35:508][160]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.08-18.21.35:508][160]CompilerResultsLog:   [1/4] BasePawn.cpp
+[2021.12.08-18.21.35:508][160]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(21) : error C2039: 'SetupAttatchment': is not a member of 'UStaticMeshComponent'
+[2021.12.08-18.21.35:508][160]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h(31): note: see declaration of 'UStaticMeshComponent'
+[2021.12.08-18.21.35:508][160]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(24) : error C2146: syntax error: missing ';' before identifier 'TurretMesh'
+[2021.12.08-18.21.35:508][160]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(24) : error C2039: 'SetupAttatchment': is not a member of 'UStaticMeshComponent'
+[2021.12.08-18.21.35:508][160]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h(31): note: see declaration of 'UStaticMeshComponent'
+[2021.12.08-18.21.35:508][160]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(27) : error C2146: syntax error: missing ';' before identifier 'ProjectileSpawnPoint'
+[2021.12.08-18.21.35:508][160]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(27) : error C2039: 'SetupAttatchment': is not a member of 'USceneComponent'
+[2021.12.08-18.21.35:508][160]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerController.generated.h(13): note: see declaration of 'USceneComponent'
+[2021.12.08-18.21.35:508][160]LogMainFrame: MainFrame: Module compiling took 1.239 seconds
+[2021.12.08-18.21.35:509][160]Warning: HotReload failed, recompile failed
+[2021.12.08-18.22.02:869][707]Candidate modules for hot reload:
+[2021.12.08-18.22.02:869][707]  ToonTanks
+[2021.12.08-18.22.02:869][707]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1400 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-18.22.02:872][707]Warning: Starting HotReload took  0.0s.
+[2021.12.08-18.22.04:076][815]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 2:22:04 AM
+[2021.12.08-18.22.04:077][815]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-18.22.04:077][815]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-18.22.04:077][815]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-18.22.04:077][815]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.08-18.22.04:077][815]CompilerResultsLog:   [1/4] BasePawn.cpp
+[2021.12.08-18.22.04:077][815]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(24) : error C2146: syntax error: missing ';' before identifier 'TurretMesh'
+[2021.12.08-18.22.04:077][815]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.cpp(27) : error C2146: syntax error: missing ';' before identifier 'ProjectileSpawnPoint'
+[2021.12.08-18.22.04:077][815]LogMainFrame: MainFrame: Module compiling took 1.210 seconds
+[2021.12.08-18.22.04:077][815]Warning: HotReload failed, recompile failed
+[2021.12.08-18.22.16:800][316]Candidate modules for hot reload:
+[2021.12.08-18.22.16:800][316]  ToonTanks
+[2021.12.08-18.22.16:800][316]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,5330 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-18.22.16:803][316]Warning: Starting HotReload took  0.0s.
+[2021.12.08-18.22.19:106][556]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 2:22:19 AM
+[2021.12.08-18.22.19:106][556]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-18.22.19:106][556]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-18.22.19:106][556]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-18.22.19:106][556]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.08-18.22.19:106][556]CompilerResultsLog:   [1/4] BasePawn.cpp
+[2021.12.08-18.22.19:106][556]CompilerResultsLog:   [2/4] UE4Editor-ToonTanks-5330.lib
+[2021.12.08-18.22.19:106][556]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5330.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5330.exp
+[2021.12.08-18.22.19:106][556]CompilerResultsLog:   [3/4] UE4Editor-ToonTanks-5330.dll
+[2021.12.08-18.22.19:106][556]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5330.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5330.suppressed.exp
+[2021.12.08-18.22.19:106][556]CompilerResultsLog:   [4/4] ToonTanksEditor.target
+[2021.12.08-18.22.19:106][556]CompilerResultsLog: Total time in Parallel executor: 1.63 seconds
+[2021.12.08-18.22.19:106][556]CompilerResultsLog: Total execution time: 2.22 seconds
+[2021.12.08-18.22.19:106][556]LogMainFrame: MainFrame: Module compiling took 2.310 seconds
+[2021.12.08-18.22.19:164][556]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.08-18.22.19:168][556]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.12.08-18.22.19:170][556]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.12.08-18.22.19:171][556]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.08-18.22.19:186][556]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3428 classes and 823 folders.
+[2021.12.08-18.22.19:186][556]Display: HotReload took  2.4s.
+[2021.12.08-18.22.22:450][945]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-18.22.22:455][945]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-18.24.45:043][755]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.12.08-18.24.45:044][755]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.12.08-18.24.45:180][755]LogSlate: Took 0.111568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.08-18.25.46:345][784]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-18.25.47:272][784]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 125 classes and 0 folders.
+[2021.12.08-18.25.48:226][784]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2021.12.08-18.25.50:318][997]LogSlate: Window 'BP_PawnTank' being destroyed
+[2021.12.08-18.25.54:549][297]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTankC3F868634AFEFD956F713ABF8DCF7F4B.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-18.25.54:574][297]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-18.25.54:574][297]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-18.25.55:893][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.12.08-18.25.55:908][448]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Main40C8EB654449A9F2D9007CA5FFAC77FF.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main.umap'
+[2021.12.08-18.25.55:923][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.12.08-18.25.55:944][448]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Main_BuiltDataADD019E648D5EBD65D8D73A5B01DA460.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.12.08-18.25.55:961][448]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.08-18.25.55:961][448]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.12.08-18.25.55:961][448]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.12.08-18.33.04:671][ 94]LogSlate: Took 0.026688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.08-18.33.09:537][658]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.12.08-18.33.09:537][658]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.12.08-18.35.02:057][257]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-18.35.02:346][257]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2021.12.08-18.35.56:140][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.12.08-18.35.56:141][165]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.023
+[2021.12.08-18.35.56:142][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_TurretTurret] ([1] browsable assets)...
+[2021.12.08-18.35.56:142][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_TurretTurret]
+[2021.12.08-18.35.56:147][165]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_TurretTurret_Auto248A2349D46E97D0F0F6031A3F9B21A9F.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawns/BP_TurretTurret_Auto2.uasset'
+[2021.12.08-18.35.56:147][165]LogFileHelpers: Auto-saving content packages took 0.006
+[2021.12.08-19.40.38:891][992]Candidate modules for hot reload:
+[2021.12.08-19.40.38:891][992]  ToonTanks
+[2021.12.08-19.40.38:891][992]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,9597 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-19.40.38:895][992]Warning: Starting HotReload took  0.0s.
+[2021.12.08-19.40.52:355][242]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 3:40:52 AM
+[2021.12.08-19.40.52:355][242]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-19.40.52:356][242]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-19.40.52:356][242]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-19.40.52:356][242]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(33)  : LogCompile: Error: BlueprintReadWrite should not be used on private members
+[2021.12.08-19.40.52:356][242]LogMainFrame: MainFrame: Module compiling took 13.467 seconds
+[2021.12.08-19.40.52:356][242]Warning: HotReload failed, recompile failed
+[2021.12.08-19.42.08:733][349]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-19.42.08:738][349]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-19.42.09:278][412]Candidate modules for hot reload:
+[2021.12.08-19.42.09:278][412]  ToonTanks
+[2021.12.08-19.42.09:279][412]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,8961 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-19.42.09:282][412]Warning: Starting HotReload took  0.0s.
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 3:42:18 AM
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 5.6971531 seconds
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-19.42.18:121][435]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   [1/6] ToonTanks.init.gen.cpp
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   [2/6] BasePawn.cpp
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   [3/6] BasePawn.gen.cpp
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:   [4/6] UE4Editor-ToonTanks-8961.lib
+[2021.12.08-19.42.18:121][435]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-8961.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-8961.exp
+[2021.12.08-19.42.18:122][435]CompilerResultsLog:   [5/6] UE4Editor-ToonTanks-8961.dll
+[2021.12.08-19.42.18:122][435]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-8961.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-8961.suppressed.exp
+[2021.12.08-19.42.18:122][435]CompilerResultsLog:   [6/6] ToonTanksEditor.target
+[2021.12.08-19.42.18:122][435]CompilerResultsLog: Total time in Parallel executor: 2.38 seconds
+[2021.12.08-19.42.18:122][435]CompilerResultsLog: Total execution time: 8.76 seconds
+[2021.12.08-19.42.18:122][435]LogMainFrame: MainFrame: Module compiling took 8.847 seconds
+[2021.12.08-19.42.18:580][435]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.08-19.42.18:587][435]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.12.08-19.42.18:634][435]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.12.08-19.42.18:637][435]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.08-19.42.18:655][435]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3428 classes and 823 folders.
+[2021.12.08-19.42.18:655][435]Display: HotReload took  9.4s.
+[2021.12.08-19.54.58:340][189]Candidate modules for hot reload:
+[2021.12.08-19.54.58:340][189]  ToonTanks
+[2021.12.08-19.54.58:341][189]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,8604 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-19.54.58:344][189]Warning: Starting HotReload took  0.0s.
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 3:55:05 AM
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-19.55.05:002][756]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(27)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(31)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(33)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2021.12.08-19.55.05:002][756]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/BasePawn.h(35)  : LogCompile: Error: BlueprintReadOnly should not be used on private members
+[2021.12.08-19.55.05:002][756]LogMainFrame: MainFrame: Module compiling took 6.665 seconds
+[2021.12.08-19.55.05:002][756]Warning: HotReload failed, recompile failed
+[2021.12.08-19.55.33:813][274]Candidate modules for hot reload:
+[2021.12.08-19.55.33:813][274]  ToonTanks
+[2021.12.08-19.55.33:813][274]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,3200 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-19.55.33:817][274]Warning: Starting HotReload took  0.0s.
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 3:55:42 AM
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 5.6858225 seconds
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [1/6] ToonTanks.init.gen.cpp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [2/6] BasePawn.cpp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [3/6] BasePawn.gen.cpp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [4/6] UE4Editor-ToonTanks-3200.lib
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3200.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3200.exp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [5/6] UE4Editor-ToonTanks-3200.dll
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3200.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-3200.suppressed.exp
+[2021.12.08-19.55.42:371][321]CompilerResultsLog:   [6/6] ToonTanksEditor.target
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Total time in Parallel executor: 1.82 seconds
+[2021.12.08-19.55.42:371][321]CompilerResultsLog: Total execution time: 8.23 seconds
+[2021.12.08-19.55.42:371][321]LogMainFrame: MainFrame: Module compiling took 8.561 seconds
+[2021.12.08-19.55.42:413][321]LogClass: Could not find existing class BasePawn in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.08-19.55.42:420][321]LogHotReload: Re-instancing BasePawn after hot-reload.
+[2021.12.08-19.55.42:486][321]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.12.08-19.55.42:492][321]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.08-19.55.42:509][321]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3428 classes and 823 folders.
+[2021.12.08-19.55.42:509][321]Display: HotReload took  8.7s.
+[2021.12.08-19.57.41:945][959]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-19.57.41:951][959]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-19.57.45:749][396]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-19.57.45:749][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-19.57.46:102][431]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.08-19.57.46:102][431]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-19.57.46:102][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-19.57.47:560][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-19.57.50:153][860]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-19.57.50:153][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-19.57.50:215][860]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-19.57.54:303][290]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-19.57.55:832][429]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-19.57.55:832][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-19.57.55:889][429]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-19.59.09:599][540]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.12.08-19.59.09:601][540]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.154
+[2021.12.08-19.59.09:601][540]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_PawnTank] ([1] browsable assets)...
+[2021.12.08-19.59.09:654][540]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank]
+[2021.12.08-19.59.09:654][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_PawnTank]
+[2021.12.08-19.59.09:671][540]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTank_Auto3BA7C5F9940D743B063EF19947A7DD52E.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Autosaves/Game/Blueprints/Pawns/BP_PawnTank_Auto3.uasset'
+[2021.12.08-19.59.09:673][540]LogFileHelpers: Auto-saving content packages took 0.073
+[2021.12.08-20.00.00:020][145]LogEditorTransaction: Undo Set Vector Property
+[2021.12.08-20.01.04:308][731]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTank5EF152B449136C40F0A50BB4B501507B.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.01.04:324][731]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.01.04:324][731]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.01.13:219][776]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTankF4AB59434613E1D797CDC8B1386BBEA1.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.01.13:233][776]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.01.13:233][776]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.03.20:289][762]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTank4BD403E54A5BEB252976B6BC8DC702D1.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.03.20:304][762]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.03.20:304][762]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.03.31:258][ 55]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_TurretTurret9882B4224CE84973C6D7E1A1D7990E4A.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_TurretTurret.uasset'
+[2021.12.08-20.03.31:272][ 55]AssetCheck: New page: Asset Save: BP_TurretTurret
+[2021.12.08-20.03.31:272][ 55]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-20.04.43:155][636]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTankEDDD4BCB4489A35A7B154C9AC1252280.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.04.43:172][636]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.04.43:172][636]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.05.35:605][655]LogEditorTransaction: Undo Set Vector Property
+[2021.12.08-20.05.46:389][898]LogEditorTransaction: Undo Edit Y
+[2021.12.08-20.06.11:566][872]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_TurretTurret5EBAA769466E8599722AC28002721534.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_TurretTurret.uasset'
+[2021.12.08-20.06.11:581][872]AssetCheck: New page: Asset Save: BP_TurretTurret
+[2021.12.08-20.06.11:581][872]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-20.06.31:529][694]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_TurretTurretCA853C704DF8C13AF8E978855D86B0E4.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_TurretTurret.uasset'
+[2021.12.08-20.06.31:542][694]AssetCheck: New page: Asset Save: BP_TurretTurret
+[2021.12.08-20.06.31:542][694]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_TurretTurret.BP_TurretTurret
+[2021.12.08-20.06.32:418][796]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTank514BDAE342B211EA61B810AF3C6CC43A.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-20.06.32:430][796]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-20.06.32:431][796]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-20.06.59:131][560]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.12.08-20.06.59:156][560]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Main68292D09453B8777AD6BABA7D23B090C.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main.umap'
+[2021.12.08-20.06.59:173][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2021.12.08-20.06.59:189][560]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Main_BuiltData38D85EB341C91DC00D979DB650C925E9.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Maps/Main_BuiltData.uasset'
+[2021.12.08-20.06.59:205][560]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.08-20.06.59:205][560]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.12.08-20.06.59:205][560]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.12.08-21.28.10:364][854]LogEditorViewport: Clicking on Actor (LMB): BP_PawnTank_C (BP_PawnTank)
+[2021.12.08-21.28.41:623][611]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.12.08-21.28.41:670][611]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Main_Auto42FEBAB5446DBE160BC92CA802D6BA7AD.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto4.umap'
+[2021.12.08-21.28.41:671][611]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.150
+[2021.12.08-21.28.41:671][611]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.150
+[2021.12.08-21.34.02:460][570]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.08-21.34.02:491][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.08-21.34.02:491][570]PIE: New page: PIE session: Main (Dec 8, 2021, 5:34:02 AM)
+[2021.12.08-21.34.02:494][570]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.08-21.34.02:495][570]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.08-21.34.02:495][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.12.08-21.34.02:499][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004214s)
+[2021.12.08-21.34.02:500][570]LogAIModule: Creating AISystem for world Main
+[2021.12.08-21.34.02:501][570]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002BE9E1FF200), frame # 100570
+[2021.12.08-21.34.02:501][570]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002BE80902C00), frame # 100570
+[2021.12.08-21.34.02:501][570]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2021.12.08-21.34.02:501][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.006183s)
+[2021.12.08-21.34.02:528][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.12.08-21.34.02:529][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.08-21.34.02:529][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.08-21.34.02:529][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.08-21.34.02:529][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.08-21.34.02:530][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.08-21.34.02:530][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.08-21.34.02:530][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.08-21.34.02:530][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.08-21.34.02:530][570]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.08-21.34.02:530][570]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.08-21.34.02:535][570]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.08-21.34.02:535][570]LogAudioMixer: Display: 1: FrontRight
+[2021.12.08-21.34.02:551][570]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.12.08-21.34.02:552][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.08-21.34.02:552][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.08-21.34.02:552][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.08-21.34.02:558][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.08-21.34.02:562][570]LogInit: FAudioDevice initialized.
+[2021.12.08-21.34.02:591][570]LogLoad: Game class is 'GameModeBase'
+[2021.12.08-21.34.02:595][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.12.08-13.34.02
+[2021.12.08-21.34.02:626][570]LogWorld: Bringing up level for play took: 0.032154
+[2021.12.08-21.34.02:626][570]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.12.08-21.34.02:644][570]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2021.12.08-21.34.02:658][570]PIE: Server logged in
+[2021.12.08-21.34.02:661][570]PIE: Play in editor total start time 0.191 seconds.
+[2021.12.08-21.34.03:778][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.08-21.34.03:778][633]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.12.08-21.34.03:778][633]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.12.08-21.34.03:778][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-21.34.03:784][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.08-21.34.03:789][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.08-21.34.03:812][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.08-21.34.03:858][633]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002BE80902C00), frame # 100633
+[2021.12.08-21.34.03:858][633]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002BE9E1FF200), frame # 100633
+[2021.12.08-21.34.03:930][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.12.08-21.34.03:962][634]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.12.08-21.35.15:994][609]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.12.08-21.35.15:994][609]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.12.08-21.35.44:264][119]Candidate modules for hot reload:
+[2021.12.08-21.35.44:264][119]  ToonTanks
+[2021.12.08-21.35.44:264][119]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,863 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 5:36:02 AM
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: Invalidating makefile for ToonTanksEditor (source file added)
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-21.36.02:951][119]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 9.5385492 seconds
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.12.08-21.36.02:951][119]CompilerResultsLog:   [1/6] ToonTanks.init.gen.cpp
+[2021.12.08-21.36.02:951][119]CompilerResultsLog:   [2/6] Tank.cpp
+[2021.12.08-21.36.02:951][119]CompilerResultsLog:   [3/6] Tank.gen.cpp
+[2021.12.08-21.36.02:951][119]CompilerResultsLog:   [4/6] UE4Editor-ToonTanks-0863.lib
+[2021.12.08-21.36.02:951][119]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0863.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0863.exp
+[2021.12.08-21.36.02:951][119]CompilerResultsLog:   [5/6] UE4Editor-ToonTanks-0863.dll
+[2021.12.08-21.36.02:951][119]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0863.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-0863.suppressed.exp
+[2021.12.08-21.36.02:951][119]CompilerResultsLog:   [6/6] ToonTanksEditor.target
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: Total time in Parallel executor: 3.63 seconds
+[2021.12.08-21.36.02:951][119]CompilerResultsLog: Total execution time: 18.58 seconds
+[2021.12.08-21.36.02:951][119]LogMainFrame: MainFrame: Module compiling took 18.691 seconds
+[2021.12.08-21.36.02:979][119]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 3428 classes and 823 folders.
+[2021.12.08-21.36.02:979][119]Display: HotReload took 18.7s.
+[2021.12.08-21.36.02:979][119]Warning: HotReload operation took 18.7s.
+[2021.12.08-21.36.03:088][119]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.12.08-21.36.03:447][119]LogHotReload: New module detected: UE4Editor-ToonTanks-0863.dll
+[2021.12.08-21.36.03:527][120]LogHotReload: Starting Hot-Reload from IDE
+[2021.12.08-21.36.03:815][120]LogClass: Could not find existing class Tank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.08-21.36.03:821][120]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2021.12.08-21.36.03:828][120]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.08-21.36.05:230][120]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 3429 classes and 823 folders.
+[2021.12.08-21.36.05:233][120]Display: HotReload took  1.7s.
+[2021.12.08-21.50.11:878][760]Candidate modules for hot reload:
+[2021.12.08-21.50.11:878][760]  ToonTanks
+[2021.12.08-21.50.11:878][760]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,516 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-21.50.11:881][760]Warning: Starting HotReload took  0.0s.
+[2021.12.08-21.50.25:181][318]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 5:50:25 AM
+[2021.12.08-21.50.25:182][318]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-21.50.25:182][318]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-21.50.25:182][318]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-21.50.25:182][318]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 5.861139 seconds
+[2021.12.08-21.50.25:182][318]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-21.50.25:182][318]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-21.50.25:182][318]CompilerResultsLog: Building 6 actions with 12 processes...
+[2021.12.08-21.50.25:182][318]CompilerResultsLog:   [1/6] ToonTanks.init.gen.cpp
+[2021.12.08-21.50.25:182][318]CompilerResultsLog:   [2/6] Tank.gen.cpp
+[2021.12.08-21.50.25:182][318]CompilerResultsLog:   [3/6] Tank.cpp
+[2021.12.08-21.50.25:182][318]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Tank.cpp(9) : error C2084: function 'ATank::ATank(void)' already has a body
+[2021.12.08-21.50.25:182][318]CompilerResultsLog:   C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Tank.h(15): note: see previous definition of '{ctor}'
+[2021.12.08-21.50.25:182][318]LogMainFrame: MainFrame: Module compiling took 13.307 seconds
+[2021.12.08-21.50.25:182][318]Warning: HotReload failed, recompile failed
+[2021.12.08-21.51.20:205][177]Candidate modules for hot reload:
+[2021.12.08-21.51.20:205][177]  ToonTanks
+[2021.12.08-21.51.20:206][177]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,9111 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-21.51.20:209][177]Warning: Starting HotReload took  0.0s.
+[2021.12.08-21.51.21:476][293]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 5:51:21 AM
+[2021.12.08-21.51.21:476][293]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-21.51.21:476][293]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-21.51.21:476][293]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-21.51.21:476][293]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.08-21.51.21:476][293]CompilerResultsLog:   [1/4] Tank.cpp
+[2021.12.08-21.51.21:476][293]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Tank.cpp(10) : error C2084: function 'ATank::ATank(void)' already has a body
+[2021.12.08-21.51.21:476][293]CompilerResultsLog:   C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Tank.h(15): note: see previous definition of '{ctor}'
+[2021.12.08-21.51.21:476][293]LogMainFrame: MainFrame: Module compiling took 1.274 seconds
+[2021.12.08-21.51.21:476][293]Warning: HotReload failed, recompile failed
+[2021.12.08-21.52.27:243][518]Candidate modules for hot reload:
+[2021.12.08-21.52.27:243][518]  ToonTanks
+[2021.12.08-21.52.27:243][518]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,163 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-21.52.27:246][518]Warning: Starting HotReload took  0.0s.
+[2021.12.08-21.52.28:433][624]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 5:52:28 AM
+[2021.12.08-21.52.28:433][624]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-21.52.28:433][624]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-21.52.28:433][624]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-21.52.28:433][624]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.08-21.52.28:433][624]CompilerResultsLog:   [1/4] Tank.cpp
+[2021.12.08-21.52.28:433][624]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Tank.cpp(9) : error C2084: function 'ATank::ATank(void)' already has a body
+[2021.12.08-21.52.28:433][624]CompilerResultsLog:   C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Tank.h(15): note: see previous definition of '{ctor}'
+[2021.12.08-21.52.28:433][624]LogMainFrame: MainFrame: Module compiling took 1.193 seconds
+[2021.12.08-21.52.28:433][624]Warning: HotReload failed, recompile failed
+[2021.12.08-21.53.54:688][160]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-21.53.54:695][160]LogSlate: Window 'Message Log' being destroyed
+[2021.12.08-21.54.12:438][327]Candidate modules for hot reload:
+[2021.12.08-21.54.12:438][327]  ToonTanks
+[2021.12.08-21.54.12:439][327]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,6631 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.08-21.54.12:442][327]Warning: Starting HotReload took  0.0s.
+[2021.12.08-21.54.23:918][887]CompilerResultsLog: New page: Compilation - Dec 8, 2021, 5:54:23 AM
+[2021.12.08-21.54.23:918][887]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.08-21.54.23:918][887]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.08-21.54.23:918][887]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.08-21.54.23:918][887]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 5.7562564 seconds
+[2021.12.08-21.54.23:918][887]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.08-21.54.23:919][887]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.08-21.54.23:919][887]CompilerResultsLog: Building 5 actions with 12 processes...
+[2021.12.08-21.54.23:919][887]CompilerResultsLog:   [1/5] Tank.gen.cpp
+[2021.12.08-21.54.23:919][887]CompilerResultsLog:   [2/5] Tank.cpp
+[2021.12.08-21.54.23:919][887]CompilerResultsLog:   [3/5] UE4Editor-ToonTanks-6631.lib
+[2021.12.08-21.54.23:919][887]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6631.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6631.exp
+[2021.12.08-21.54.23:919][887]CompilerResultsLog:   [4/5] UE4Editor-ToonTanks-6631.dll
+[2021.12.08-21.54.23:919][887]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6631.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6631.suppressed.exp
+[2021.12.08-21.54.23:919][887]CompilerResultsLog:   [5/5] ToonTanksEditor.target
+[2021.12.08-21.54.23:919][887]CompilerResultsLog: Total time in Parallel executor: 4.75 seconds
+[2021.12.08-21.54.23:919][887]CompilerResultsLog: Total execution time: 11.23 seconds
+[2021.12.08-21.54.23:919][887]LogMainFrame: MainFrame: Module compiling took 11.484 seconds
+[2021.12.08-21.54.24:020][887]LogClass: Could not find existing class Tank in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.08-21.54.24:031][887]LogHotReload: Re-instancing Tank after hot-reload.
+[2021.12.08-21.54.24:053][887]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2021.12.08-21.54.24:061][887]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.08-21.54.24:168][887]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 3429 classes and 823 folders.
+[2021.12.08-21.54.24:168][887]Display: HotReload took 11.7s.
+[2021.12.08-21.56.47:394][641]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.08-21.56.52:269][207]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank from BasePawn to Tank...
+[2021.12.08-21.56.52:287][207]BlueprintLog: New page: Compile BP_PawnTank
+[2021.12.08-21.56.52:495][207]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2021.12.08-21.56.57:909][836]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/BP_PawnTank26E716E74679653306C56A8CD9A73A32.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset'
+[2021.12.08-21.56.57:924][836]AssetCheck: New page: Asset Save: BP_PawnTank
+[2021.12.08-21.56.57:924][836]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_PawnTank.BP_PawnTank
+[2021.12.08-21.57.02:638][386]LogEditorViewport: Clicking on Actor (LMB): BP_PawnTank_C (BP_PawnTank)
+[2021.12.08-21.57.29:049][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.12.08-21.57.29:071][614]LogSavePackage: Moving '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Main_Auto5C44DDFBF49CDC6F5BC9D33B62C9FE45C.tmp' to '../../../../../../Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved/Autosaves/Game/Maps/Main_Auto5.umap'
+[2021.12.08-21.57.29:072][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.093
+[2021.12.08-21.57.29:072][614]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.093
