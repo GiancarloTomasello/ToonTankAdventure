@@ -967,3 +967,479 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.11-22.56.17:881][562]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.11-22.56.17:881][562]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
 [2021.12.11-22.56.17:881][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Main_BuiltData.Main_BuiltData
+[2021.12.11-23.16.16:099][223]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d4d7bf9c-3017-48a0-bc58-d42576c5425c}.
+[2021.12.11-23.16.16:099][223]LogTemp: Resetting audio stream to device id 
+[2021.12.11-23.16.17:839][223]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-23.16.17:839][223]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-23.16.17:874][224]LogTemp: Resetting audio stream to device id 
+[2021.12.11-23.16.17:890][224]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-23.16.17:890][224]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-23.51.31:966][ 27]Candidate modules for hot reload:
+[2021.12.11-23.51.31:966][ 27]  ToonTanks
+[2021.12.11-23.51.31:966][ 27]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,5644 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.11-23.51.31:969][ 27]Warning: Starting HotReload took  0.0s.
+[2021.12.11-23.51.47:463][ 94]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 7:51:47 AM
+[2021.12.11-23.51.47:463][ 94]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.11-23.51.47:463][ 94]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.11-23.51.47:463][ 94]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.11-23.51.47:464][ 94]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/Projectile.h(34)  : Error: Unrecognized type 'UPrimativeComponent' - type must be a UCLASS, USTRUCT or UENUM
+[2021.12.11-23.51.47:464][ 94]LogMainFrame: MainFrame: Module compiling took 15.500 seconds
+[2021.12.11-23.51.47:464][ 94]Warning: HotReload failed, recompile failed
+[2021.12.11-23.52.29:102][601]Candidate modules for hot reload:
+[2021.12.11-23.52.29:102][601]  ToonTanks
+[2021.12.11-23.52.29:102][601]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,876 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.11-23.52.29:106][601]Warning: Starting HotReload took  0.0s.
+[2021.12.11-23.52.36:088][850]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 7:52:36 AM
+[2021.12.11-23.52.36:088][850]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.11-23.52.36:088][850]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.11-23.52.36:088][850]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.11-23.52.36:088][850]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/Projectile.h(34)  : Error: Unrecognized type 'UPrimativeComponent' - type must be a UCLASS, USTRUCT or UENUM
+[2021.12.11-23.52.36:088][850]LogMainFrame: MainFrame: Module compiling took 6.989 seconds
+[2021.12.11-23.52.36:088][850]Warning: HotReload failed, recompile failed
+[2021.12.11-23.54.12:492][397]Candidate modules for hot reload:
+[2021.12.11-23.54.12:492][397]  ToonTanks
+[2021.12.11-23.54.12:492][397]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,9144 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.11-23.54.12:495][397]Warning: Starting HotReload took  0.0s.
+[2021.12.11-23.54.18:664][100]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 7:54:18 AM
+[2021.12.11-23.54.18:664][100]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.11-23.54.18:664][100]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.11-23.54.18:664][100]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.11-23.54.18:664][100]CompilerResultsLog: Error: C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Source/ToonTanks/Projectile.h(34)  : Error: Unrecognized type 'FVecto' - type must be a UCLASS, USTRUCT or UENUM
+[2021.12.11-23.54.18:664][100]LogMainFrame: MainFrame: Module compiling took 6.174 seconds
+[2021.12.11-23.54.18:664][100]Warning: HotReload failed, recompile failed
+[2021.12.11-23.54.29:992][597]Candidate modules for hot reload:
+[2021.12.11-23.54.29:992][597]  ToonTanks
+[2021.12.11-23.54.29:993][597]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,5758 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.11-23.54.29:995][597]Warning: Starting HotReload took  0.0s.
+[2021.12.11-23.54.40:772][733]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 7:54:40 AM
+[2021.12.11-23.54.40:772][733]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.11-23.54.40:772][733]CompilerResultsLog: Parsing headers for ToonTanksEditor
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\ToonTanks.uproject" "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\ToonTanksEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Luigi\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.12.11-23.54.40:772][733]CompilerResultsLog: Reflection code generated for ToonTanksEditor in 6.0635561 seconds
+[2021.12.11-23.54.40:772][733]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.11-23.54.40:772][733]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.11-23.54.40:772][733]CompilerResultsLog: Building 7 actions with 12 processes...
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:   [1/7] ToonTanks.init.gen.cpp
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:   [2/7] BasePawn.cpp
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:   [3/7] Projectile.cpp
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(27) : error C2065: 'ProtectileMesh': undeclared identifier
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'UPrimativeComponent': undeclared identifier
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'HitComp': undeclared identifier
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'OtherActor': undeclared identifier
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2275: 'AActor': illegal use of this type as an expression
+[2021.12.11-23.54.40:772][733]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h(16): note: see declaration of 'AActor'
+[2021.12.11-23.54.40:773][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'OtherComp': undeclared identifier
+[2021.12.11-23.54.40:773][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2275: 'UPrimitiveComponent': illegal use of this type as an expression
+[2021.12.11-23.54.40:773][733]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h(18): note: see declaration of 'UPrimitiveComponent'
+[2021.12.11-23.54.40:773][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'FVecto': undeclared identifier
+[2021.12.11-23.54.40:773][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2146: syntax error: missing ')' before identifier 'NormalImpulse'
+[2021.12.11-23.54.40:773][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(38) : error C2143: syntax error: missing ';' before '{'
+[2021.12.11-23.54.40:773][733]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(38) : error C2447: '{': missing function header (old-style formal list?)
+[2021.12.11-23.54.40:773][733]CompilerResultsLog:   [4/7] Projectile.gen.cpp
+[2021.12.11-23.54.40:773][733]LogMainFrame: MainFrame: Module compiling took 10.784 seconds
+[2021.12.11-23.54.40:773][733]Warning: HotReload failed, recompile failed
+[2021.12.11-23.55.26:770][485]Candidate modules for hot reload:
+[2021.12.11-23.55.26:770][485]  ToonTanks
+[2021.12.11-23.55.26:770][485]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,8240 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.11-23.55.26:774][485]Warning: Starting HotReload took  0.0s.
+[2021.12.11-23.55.28:375][558]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 7:55:28 AM
+[2021.12.11-23.55.28:375][558]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.11-23.55.28:375][558]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.11-23.55.28:375][558]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.11-23.55.28:375][558]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:   [1/4] Projectile.cpp
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'UPrimativeComponent': undeclared identifier
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'HitComp': undeclared identifier
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'OtherActor': undeclared identifier
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2275: 'AActor': illegal use of this type as an expression
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h(16): note: see declaration of 'AActor'
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'OtherComp': undeclared identifier
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2275: 'UPrimitiveComponent': illegal use of this type as an expression
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h(18): note: see declaration of 'UPrimitiveComponent'
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2065: 'FVecto': undeclared identifier
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(37) : error C2146: syntax error: missing ')' before identifier 'NormalImpulse'
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(38) : error C2143: syntax error: missing ';' before '{'
+[2021.12.11-23.55.28:375][558]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(38) : error C2447: '{': missing function header (old-style formal list?)
+[2021.12.11-23.55.28:375][558]LogMainFrame: MainFrame: Module compiling took 1.607 seconds
+[2021.12.11-23.55.28:375][558]Warning: HotReload failed, recompile failed
+[2021.12.11-23.56.30:068][260]Candidate modules for hot reload:
+[2021.12.11-23.56.30:068][260]  ToonTanks
+[2021.12.11-23.56.30:068][260]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,7700 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.11-23.56.30:071][260]Warning: Starting HotReload took  0.0s.
+[2021.12.11-23.56.31:564][399]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 7:56:31 AM
+[2021.12.11-23.56.31:564][399]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.11-23.56.31:564][399]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.11-23.56.31:564][399]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.11-23.56.31:564][399]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.11-23.56.31:564][399]CompilerResultsLog:   [1/4] Projectile.cpp
+[2021.12.11-23.56.31:564][399]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(39) : error C2065: 'Warning': undeclared identifier
+[2021.12.11-23.56.31:564][399]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(39) : error C3861: 'UE_Log': identifier not found
+[2021.12.11-23.56.31:564][399]LogMainFrame: MainFrame: Module compiling took 1.499 seconds
+[2021.12.11-23.56.31:564][399]Warning: HotReload failed, recompile failed
+[2021.12.11-23.56.55:937][894]Candidate modules for hot reload:
+[2021.12.11-23.56.55:937][894]  ToonTanks
+[2021.12.11-23.56.55:937][894]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,5712 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.11-23.56.55:940][894]Warning: Starting HotReload took  0.0s.
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 7:57:00 AM
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog:   [1/4] Projectile.cpp
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog:   [2/4] UE4Editor-ToonTanks-5712.lib
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5712.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5712.exp
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog:   [3/4] UE4Editor-ToonTanks-5712.dll
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5712.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-5712.suppressed.exp
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog: Error:   Projectile.gen.cpp.obj : error LNK2019: unresolved external symbol "private: void __cdecl AProjectile::OnHit(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,struct FVector,struct FHitResult const &)" (?OnHit@AProjectile@@AEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0UFVector@@AEBUFHitResult@@@Z) referenced in function "public: static void __cdecl AProjectile::execOnHit(class UObject *,struct FFrame &,void * const)" (?execOnHit@AProjectile@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2021.12.11-23.57.00:806][ 44]CompilerResultsLog: Error:   C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Binaries\Win64\UE4Editor-ToonTanks-5712.dll : fatal error LNK1120: 1 unresolved externals
+[2021.12.11-23.57.00:806][ 44]LogMainFrame: MainFrame: Module compiling took 4.872 seconds
+[2021.12.11-23.57.00:806][ 44]Warning: HotReload failed, recompile failed
+[2021.12.11-23.57.30:534][771]Candidate modules for hot reload:
+[2021.12.11-23.57.30:534][771]  ToonTanks
+[2021.12.11-23.57.30:534][771]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,1193 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.11-23.57.30:537][771]Warning: Starting HotReload took  0.0s.
+[2021.12.11-23.57.34:162][793]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 7:57:34 AM
+[2021.12.11-23.57.34:163][793]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.11-23.57.34:163][793]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.11-23.57.34:163][793]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.11-23.57.34:163][793]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.11-23.57.34:163][793]CompilerResultsLog:   [1/4] Projectile.cpp
+[2021.12.11-23.57.34:163][793]CompilerResultsLog:   [2/4] UE4Editor-ToonTanks-1193.lib
+[2021.12.11-23.57.34:163][793]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1193.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1193.exp
+[2021.12.11-23.57.34:163][793]CompilerResultsLog:   [3/4] UE4Editor-ToonTanks-1193.dll
+[2021.12.11-23.57.34:163][793]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1193.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-1193.suppressed.exp
+[2021.12.11-23.57.34:163][793]CompilerResultsLog:   [4/4] ToonTanksEditor.target
+[2021.12.11-23.57.34:163][793]CompilerResultsLog: Total time in Parallel executor: 2.63 seconds
+[2021.12.11-23.57.34:163][793]CompilerResultsLog: Total execution time: 3.32 seconds
+[2021.12.11-23.57.34:163][793]LogMainFrame: MainFrame: Module compiling took 3.632 seconds
+[2021.12.11-23.57.34:259][793]LogClass: Could not find existing class Projectile in package /Script/ToonTanks for HotReload, assuming new class
+[2021.12.11-23.57.34:259][793]LogClass: Function OnHit is new.
+[2021.12.11-23.57.34:275][793]LogHotReload: Re-instancing Projectile after hot-reload.
+[2021.12.11-23.57.34:392][793]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0015 seconds. Added 4 classes and 2 folders.
+[2021.12.11-23.57.34:397][793]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.12.11-23.57.34:486][793]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 3431 classes and 823 folders.
+[2021.12.11-23.57.34:486][793]Display: HotReload took  4.0s.
+[2021.12.11-23.57.37:848][909]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-23.57.37:853][909]LogSlate: Window 'Message Log' being destroyed
+[2021.12.11-23.57.38:395][971]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.11-23.57.38:411][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.11-23.57.38:411][971]PIE: New page: PIE session: Main (Dec 11, 2021, 7:57:38 AM)
+[2021.12.11-23.57.38:411][971]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.12.11-23.57.38:415][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004157s)
+[2021.12.11-23.57.38:416][971]LogAIModule: Creating AISystem for world Main
+[2021.12.11-23.57.38:416][971]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021CB7C30200), frame # 35971
+[2021.12.11-23.57.38:416][971]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021CAEBFF100), frame # 35971
+[2021.12.11-23.57.38:416][971]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2021.12.11-23.57.38:417][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.005519s)
+[2021.12.11-23.57.38:505][971]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2021.12.11-23.57.38:509][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.11-23.57.38:509][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.11-23.57.38:509][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.11-23.57.38:509][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.11-23.57.38:509][971]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.11-23.57.38:509][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.11-23.57.38:509][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.11-23.57.38:509][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.11-23.57.38:509][971]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.11-23.57.38:509][971]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.11-23.57.38:514][971]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-23.57.38:515][971]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-23.57.38:531][971]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.12.11-23.57.38:532][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.11-23.57.38:532][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.11-23.57.38:532][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.11-23.57.38:533][971]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.11-23.57.38:544][971]LogInit: FAudioDevice initialized.
+[2021.12.11-23.57.38:554][971]LogLoad: Game class is 'GameModeBase'
+[2021.12.11-23.57.38:556][971]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.12.11-15.57.38
+[2021.12.11-23.57.38:556][971]LogWorld: Bringing up level for play took: 0.001629
+[2021.12.11-23.57.38:556][971]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.12.11-23.57.38:559][971]PIE: Server logged in
+[2021.12.11-23.57.38:560][971]PIE: Play in editor total start time 0.152 seconds.
+[2021.12.11-23.57.39:624][ 96]LogTemp: Warning: OnHit
+[2021.12.11-23.57.40:825][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-23.57.40:825][234]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.12.11-23.57.40:826][234]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.57.40:826][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.57.40:834][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.11-23.57.40:838][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.57.40:888][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-23.57.40:890][234]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021CAEBFF100), frame # 36234
+[2021.12.11-23.57.40:890][234]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021CB7C30200), frame # 36234
+[2021.12.11-23.57.40:913][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.12.11-23.57.40:943][235]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.12.11-23.57.43:380][510]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.11-23.57.43:391][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.11-23.57.43:391][510]PIE: New page: PIE session: Main (Dec 11, 2021, 7:57:43 AM)
+[2021.12.11-23.57.43:415][510]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.12.11-23.57.43:418][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002893s)
+[2021.12.11-23.57.43:419][510]LogAIModule: Creating AISystem for world Main
+[2021.12.11-23.57.43:419][510]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C614C2400), frame # 36510
+[2021.12.11-23.57.43:419][510]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021C9B53BD80), frame # 36510
+[2021.12.11-23.57.43:419][510]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2021.12.11-23.57.43:419][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.003945s)
+[2021.12.11-23.57.43:445][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.12.11-23.57.43:448][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.11-23.57.43:448][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.11-23.57.43:448][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.11-23.57.43:448][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.11-23.57.43:448][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.11-23.57.43:448][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.11-23.57.43:448][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.11-23.57.43:448][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.11-23.57.43:449][510]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.11-23.57.43:449][510]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.11-23.57.43:453][510]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.11-23.57.43:453][510]LogAudioMixer: Display: 1: FrontRight
+[2021.12.11-23.57.43:468][510]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.12.11-23.57.43:468][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.11-23.57.43:468][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.11-23.57.43:468][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.11-23.57.43:469][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.11-23.57.43:481][510]LogInit: FAudioDevice initialized.
+[2021.12.11-23.57.43:490][510]LogLoad: Game class is 'GameModeBase'
+[2021.12.11-23.57.43:491][510]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.12.11-15.57.43
+[2021.12.11-23.57.43:491][510]LogWorld: Bringing up level for play took: 0.001041
+[2021.12.11-23.57.43:491][510]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.12.11-23.57.43:493][510]PIE: Server logged in
+[2021.12.11-23.57.43:494][510]PIE: Play in editor total start time 0.105 seconds.
+[2021.12.11-23.57.44:243][597]LogTemp: Warning: OnHit
+[2021.12.11-23.57.44:585][638]LogTemp: Warning: OnHit
+[2021.12.11-23.57.44:960][683]LogTemp: Warning: OnHit
+[2021.12.11-23.57.45:985][806]LogTemp: Warning: OnHit
+[2021.12.11-23.57.46:167][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-23.57.46:167][823]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.12.11-23.57.46:167][823]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.12.11-23.57.46:167][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.57.46:174][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.11-23.57.46:178][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.11-23.57.46:202][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.11-23.57.46:216][823]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021C9B53BD80), frame # 36823
+[2021.12.11-23.57.46:216][823]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021C614C2400), frame # 36823
+[2021.12.11-23.57.46:219][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.12.11-23.57.46:244][824]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.12.11-23.59.35:118][809]Candidate modules for hot reload:
+[2021.12.11-23.59.35:118][809]  ToonTanks
+[2021.12.11-23.59.35:118][809]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,8916 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.11-23.59.35:121][809]Warning: Starting HotReload took  0.0s.
+[2021.12.11-23.59.37:028][998]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 7:59:37 AM
+[2021.12.11-23.59.37:028][998]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.11-23.59.37:028][998]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.11-23.59.37:028][998]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.11-23.59.37:028][998]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.11-23.59.37:028][998]CompilerResultsLog:   [1/4] Projectile.cpp
+[2021.12.11-23.59.37:028][998]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(39) : error C4002: too many arguments for function-like macro invocation 'TEXT'
+[2021.12.11-23.59.37:028][998]LogMainFrame: MainFrame: Module compiling took 1.914 seconds
+[2021.12.11-23.59.37:028][998]Warning: HotReload failed, recompile failed
+[2021.12.12-00.00.06:465][697]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-00.00.06:467][697]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-00.00.07:351][739]Candidate modules for hot reload:
+[2021.12.12-00.00.07:351][739]  ToonTanks
+[2021.12.12-00.00.07:351][739]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,8695 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.12-00.00.07:354][739]Warning: Starting HotReload took  0.0s.
+[2021.12.12-00.00.08:972][779]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 8:00:08 AM
+[2021.12.12-00.00.08:972][779]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.12-00.00.08:972][779]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.12-00.00.08:972][779]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.12-00.00.08:972][779]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.12-00.00.08:972][779]CompilerResultsLog:   [1/4] Projectile.cpp
+[2021.12.12-00.00.08:972][779]CompilerResultsLog:    C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.cpp(39) : error C2065: 'Hitcomp': undeclared identifier
+[2021.12.12-00.00.08:972][779]LogMainFrame: MainFrame: Module compiling took 1.625 seconds
+[2021.12.12-00.00.08:972][779]Warning: HotReload failed, recompile failed
+[2021.12.12-00.00.23:229][313]Candidate modules for hot reload:
+[2021.12.12-00.00.23:229][313]  ToonTanks
+[2021.12.12-00.00.23:229][313]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ToonTanks,6525 ToonTanksEditor Win64 Development -Project="C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject" "C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/ToonTanks.uproject"  -IgnoreJunk]
+[2021.12.12-00.00.23:232][313]Warning: Starting HotReload took  0.0s.
+[2021.12.12-00.00.26:148][625]CompilerResultsLog: New page: Compilation - Dec 11, 2021, 8:00:26 AM
+[2021.12.12-00.00.26:148][625]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure).
+[2021.12.12-00.00.26:148][625]CompilerResultsLog: Building ToonTanksEditor...
+[2021.12.12-00.00.26:149][625]CompilerResultsLog: Using Visual Studio 2019 14.28.29335 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.12.12-00.00.26:149][625]CompilerResultsLog: Building 4 actions with 12 processes...
+[2021.12.12-00.00.26:149][625]CompilerResultsLog:   [1/4] Projectile.cpp
+[2021.12.12-00.00.26:149][625]CompilerResultsLog:   [2/4] UE4Editor-ToonTanks-6525.lib
+[2021.12.12-00.00.26:149][625]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6525.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6525.exp
+[2021.12.12-00.00.26:149][625]CompilerResultsLog:   [3/4] UE4Editor-ToonTanks-6525.dll
+[2021.12.12-00.00.26:149][625]CompilerResultsLog:      Creating library C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6525.suppressed.lib and object C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\UE4Editor-ToonTanks-6525.suppressed.exp
+[2021.12.12-00.00.26:149][625]CompilerResultsLog:   [4/4] ToonTanksEditor.target
+[2021.12.12-00.00.26:149][625]CompilerResultsLog: Total time in Parallel executor: 2.19 seconds
+[2021.12.12-00.00.26:149][625]CompilerResultsLog: Total execution time: 2.84 seconds
+[2021.12.12-00.00.26:149][625]LogMainFrame: MainFrame: Module compiling took 2.923 seconds
+[2021.12.12-00.00.26:254][625]LogContentBrowser: Native class hierarchy updated for 'ToonTanks' in 0.0008 seconds. Added 4 classes and 2 folders.
+[2021.12.12-00.00.26:259][625]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.12.12-00.00.26:326][625]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 3431 classes and 823 folders.
+[2021.12.12-00.00.26:326][625]Display: HotReload took  3.1s.
+[2021.12.12-00.00.29:007][901]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-00.00.29:013][901]LogSlate: Window 'Message Log' being destroyed
+[2021.12.12-00.00.29:854][999]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.12-00.00.29:868][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.12-00.00.29:868][999]PIE: New page: PIE session: Main (Dec 11, 2021, 8:00:29 AM)
+[2021.12.12-00.00.29:900][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.12.12-00.00.29:903][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003150s)
+[2021.12.12-00.00.29:904][999]LogAIModule: Creating AISystem for world Main
+[2021.12.12-00.00.29:904][999]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021C79381000), frame # 40999
+[2021.12.12-00.00.29:904][999]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021CA6F120C0), frame # 40999
+[2021.12.12-00.00.29:904][999]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2021.12.12-00.00.29:904][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004317s)
+[2021.12.12-00.00.29:977][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.12.12-00.00.29:980][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.12-00.00.29:980][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.12-00.00.29:980][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.12-00.00.29:980][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.12-00.00.29:980][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.12-00.00.29:980][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.12-00.00.29:980][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.12-00.00.29:980][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.12-00.00.29:980][999]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.12-00.00.29:980][999]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.12-00.00.29:985][999]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.12-00.00.29:985][999]LogAudioMixer: Display: 1: FrontRight
+[2021.12.12-00.00.30:001][999]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.12.12-00.00.30:001][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.12-00.00.30:001][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.12-00.00.30:001][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.12-00.00.30:002][999]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.12-00.00.30:012][999]LogInit: FAudioDevice initialized.
+[2021.12.12-00.00.30:017][999]LogLoad: Game class is 'GameModeBase'
+[2021.12.12-00.00.30:018][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.12.11-16.00.30
+[2021.12.12-00.00.30:019][999]LogWorld: Bringing up level for play took: 0.001085
+[2021.12.12-00.00.30:019][999]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.12.12-00.00.30:021][999]PIE: Server logged in
+[2021.12.12-00.00.30:021][999]PIE: Play in editor total start time 0.157 seconds.
+[2021.12.12-00.00.30:714][ 80]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:Floor_0, OtherComp:StaticMeshComponent0
+[2021.12.12-00.00.35:692][363]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:Floor_0, OtherComp:StaticMeshComponent0
+[2021.12.12-00.00.36:458][455]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:467][456]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:475][457]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:483][458]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:491][459]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:500][460]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:508][461]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:516][462]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:525][463]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:533][464]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:541][465]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:550][466]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:558][467]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:567][468]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:575][469]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:584][470]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:592][471]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:600][472]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:608][473]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:617][474]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:625][475]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:633][476]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:643][477]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:650][478]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:659][479]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:667][480]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:675][481]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:683][482]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:692][483]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:700][484]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:709][485]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:717][486]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:725][487]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:734][488]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:742][489]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:751][490]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:759][491]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:767][492]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:776][493]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:784][494]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:792][495]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:800][496]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:809][497]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:817][498]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:825][499]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:835][500]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:842][501]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:851][502]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:862][503]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:867][504]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:878][505]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.36:884][506]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.39:400][808]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_TurretTurret_2, OtherComp:Turret Mesh
+[2021.12.12-00.00.40:935][992]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_TurretTurret_2, OtherComp:Turret Mesh
+[2021.12.12-00.00.43:017][242]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_TurretTurret_2, OtherComp:Turret Mesh
+[2021.12.12-00.00.44:592][431]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:Floor_0, OtherComp:StaticMeshComponent0
+[2021.12.12-00.00.45:250][510]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:258][511]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:266][512]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:275][513]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:283][514]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:291][515]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:300][516]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:308][517]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:317][518]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:325][519]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:333][520]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:342][521]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:350][522]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:358][523]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:367][524]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:375][525]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:383][526]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:392][527]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:400][528]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:408][529]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:417][530]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:425][531]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:433][532]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:442][533]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:450][534]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:458][535]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:467][536]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:475][537]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:483][538]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:492][539]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:501][540]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:509][541]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:517][542]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:526][543]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:534][544]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:542][545]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:550][546]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:559][547]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:567][548]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:575][549]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:584][550]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:592][551]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:601][552]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:609][553]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:617][554]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:626][555]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:634][556]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:642][557]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:651][558]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:659][559]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:667][560]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:676][561]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:684][562]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:692][563]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:701][564]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:709][565]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:717][566]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:726][567]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:733][568]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:742][569]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:750][570]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:758][571]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.45:767][572]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.46:316][632]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.46:324][633]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.46:332][634]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.46:341][635]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.46:349][636]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.46:357][637]LogTemp: Warning: HitComp :Projectile Mesh, OtherActor:BP_PawnTank_2, OtherComp:Box Collider
+[2021.12.12-00.00.47:169][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-00.00.47:169][731]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.12.12-00.00.47:170][731]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.12.12-00.00.47:170][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.00.47:179][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.12-00.00.47:183][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.12-00.00.47:223][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.12-00.00.47:224][731]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021CA6F120C0), frame # 42731
+[2021.12.12-00.00.47:224][731]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021C79381000), frame # 42731
+[2021.12.12-00.00.47:228][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.12.12-00.00.47:253][732]LogPlayLevel: Display: Destroying online subsystem :Context_18
