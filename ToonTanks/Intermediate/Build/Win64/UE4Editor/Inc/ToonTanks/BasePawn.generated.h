@@ -63,7 +63,10 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABasePawn); \
 	FORCEINLINE static uint32 __PPO__BaseMesh() { return STRUCT_OFFSET(ABasePawn, BaseMesh); } \
 	FORCEINLINE static uint32 __PPO__TurretMesh() { return STRUCT_OFFSET(ABasePawn, TurretMesh); } \
 	FORCEINLINE static uint32 __PPO__ProjectileSpawnPoint() { return STRUCT_OFFSET(ABasePawn, ProjectileSpawnPoint); } \
-	FORCEINLINE static uint32 __PPO__ProjectileClass() { return STRUCT_OFFSET(ABasePawn, ProjectileClass); }
+	FORCEINLINE static uint32 __PPO__ProjectileClass() { return STRUCT_OFFSET(ABasePawn, ProjectileClass); } \
+	FORCEINLINE static uint32 __PPO__DeathParticles() { return STRUCT_OFFSET(ABasePawn, DeathParticles); } \
+	FORCEINLINE static uint32 __PPO__DeathSound() { return STRUCT_OFFSET(ABasePawn, DeathSound); } \
+	FORCEINLINE static uint32 __PPO__DeathCameraShakeClass() { return STRUCT_OFFSET(ABasePawn, DeathCameraShakeClass); }
 
 
 #define ToonTanks_Source_ToonTanks_BasePawn_h_9_PROLOG
