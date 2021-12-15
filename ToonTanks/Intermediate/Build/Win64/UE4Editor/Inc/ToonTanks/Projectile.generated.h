@@ -72,7 +72,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AProjectile); \
 
 #define ToonTanks_Source_ToonTanks_Projectile_h_12_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__ProjectileMesh() { return STRUCT_OFFSET(AProjectile, ProjectileMesh); } \
-	FORCEINLINE static uint32 __PPO__ProjectileMovementComponent() { return STRUCT_OFFSET(AProjectile, ProjectileMovementComponent); }
+	FORCEINLINE static uint32 __PPO__ProjectileMovementComponent() { return STRUCT_OFFSET(AProjectile, ProjectileMovementComponent); } \
+	FORCEINLINE static uint32 __PPO__Damage() { return STRUCT_OFFSET(AProjectile, Damage); }
 
 
 #define ToonTanks_Source_ToonTanks_Projectile_h_9_PROLOG
