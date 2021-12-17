@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/.vscode": true,
+		"C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Content": true,
+		"C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/DerivedDataCache": true,
+		"C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Intermediate": true,
+		"C:/Users/Luigi/Documents/Unreal Projects/ToonTankAdventure/ToonTanks/Saved": true
+	}
+}
