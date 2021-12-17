@@ -18,6 +18,13 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 	ENGINE_API UClass* Z_Construct_UClass_AGameModeBase();
 	UPackage* Z_Construct_UPackage__Script_ToonTanks();
 // End Cross Module References
+	DEFINE_FUNCTION(AToonTanksGameMode::execHandleGameStart)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->HandleGameStart();
+		P_NATIVE_END;
+	}
 	static FName NAME_AToonTanksGameMode_GameOver = FName(TEXT("GameOver"));
 	void AToonTanksGameMode::GameOver(bool bWonGame)
 	{
@@ -32,6 +39,11 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 	}
 	void AToonTanksGameMode::StaticRegisterNativesAToonTanksGameMode()
 	{
+		UClass* Class = AToonTanksGameMode::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "HandleGameStart", &AToonTanksGameMode::execHandleGameStart },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
 	struct Z_Construct_UFunction_AToonTanksGameMode_GameOver_Statics
 	{
@@ -66,6 +78,28 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_AToonTanksGameMode_HandleGameStart_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AToonTanksGameMode_HandleGameStart_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "ToonTanksGameMode.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AToonTanksGameMode_HandleGameStart_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AToonTanksGameMode, nullptr, "HandleGameStart", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AToonTanksGameMode_HandleGameStart_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AToonTanksGameMode_HandleGameStart_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AToonTanksGameMode_HandleGameStart()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AToonTanksGameMode_HandleGameStart_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	struct Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics
 	{
 #if WITH_METADATA
@@ -78,7 +112,7 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 		{ "ModuleRelativePath", "ToonTanksGameMode.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AToonTanksGameMode, nullptr, "StartGame", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08080800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::Function_MetaDataParams)) };
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AToonTanksGameMode, nullptr, "StartGame", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x0C080800, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_AToonTanksGameMode_StartGame_Statics::Function_MetaDataParams)) };
 	UFunction* Z_Construct_UFunction_AToonTanksGameMode_StartGame()
 	{
 		static UFunction* ReturnFunction = nullptr;
@@ -108,7 +142,8 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AToonTanksGameMode_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_AToonTanksGameMode_GameOver, "GameOver" }, // 4197060772
-		{ &Z_Construct_UFunction_AToonTanksGameMode_StartGame, "StartGame" }, // 1578700737
+		{ &Z_Construct_UFunction_AToonTanksGameMode_HandleGameStart, "HandleGameStart" }, // 1892960525
+		{ &Z_Construct_UFunction_AToonTanksGameMode_StartGame, "StartGame" }, // 322645181
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AToonTanksGameMode_Statics::Class_MetaDataParams[] = {
@@ -146,7 +181,7 @@ void EmptyLinkFunctionForGeneratedCodeToonTanksGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AToonTanksGameMode, 3775998914);
+	IMPLEMENT_CLASS(AToonTanksGameMode, 4167963031);
 	template<> TOONTANKS_API UClass* StaticClass<AToonTanksGameMode>()
 	{
 		return AToonTanksGameMode::StaticClass();

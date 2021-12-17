@@ -25,6 +25,7 @@ void ATank::BeginPlay()
 	
     TankPlayerController = Cast<APlayerController>(GetController());
 
+    MeshComp = Cast<UStaticMeshComponent>(GetOwner()->GetDefaultSubobjectByName(TEXT("Base Mesh")));
 }
 
 // Called to bind functionality to input

@@ -14,8 +14,16 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define TOONTANKS_ToonTanksGameMode_generated_h
 
 #define ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_15_SPARSE_DATA
-#define ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_15_RPC_WRAPPERS
-#define ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execHandleGameStart);
+
+
+#define ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execHandleGameStart);
+
+
 #define ToonTanks_Source_ToonTanks_ToonTanksGameMode_h_15_EVENT_PARMS \
 	struct ToonTanksGameMode_eventGameOver_Parms \
 	{ \

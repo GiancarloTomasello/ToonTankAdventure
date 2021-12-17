@@ -10,7 +10,10 @@
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off"
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"c:\\Users\\Luigi\\Documents\\Unreal Projects\\ToonTankAdventure\\ToonTanks\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\ToonTanks\\Definitions.ToonTanks.h"
+		]
 	},
 	"extensions": {
 		"recommendations": [

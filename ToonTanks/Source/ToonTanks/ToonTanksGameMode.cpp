@@ -33,17 +33,16 @@ void AToonTanksGameMode::BeginPlay()
 {
     Super::BeginPlay(); 
 
-    HandleGameStart();
+    //HandleGameStart();
 
 }
+
 
 void AToonTanksGameMode::HandleGameStart()
 {
     TargetTowers = GetTargetTowerCount();
     Tank = Cast<ATank>(UGameplayStatics::GetPlayerPawn(this, 0));
     ToonTanksPlayerController = Cast<AToonTankPlayerController>(UGameplayStatics::GetPlayerController(this, 0));
-
-    StartGame();
 
     if(ToonTanksPlayerController)
     {

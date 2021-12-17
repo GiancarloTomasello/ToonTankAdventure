@@ -50,4 +50,10 @@ private:
 	float TurnRate = 100.f;
 
 	APlayerController* TankPlayerController;
+
+	UPROPERTY()
+	class UStaticMeshComponent* MeshComp;
+
+	UPROPERTY(EditAnywhere)
+	float Force = 1000.0f;
 };

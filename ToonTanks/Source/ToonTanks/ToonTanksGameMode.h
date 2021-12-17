@@ -20,7 +20,7 @@ public:
 protected:
 	virtual void BeginPlay() override;
 
-	UFUNCTION(BlueprintImplementableEvent)
+	UFUNCTION(BlueprintImplementableEvent, BlueprintCallable)
 	void StartGame();
 
 	UFUNCTION(BlueprintImplementableEvent)
@@ -32,6 +32,7 @@ private:
 
 	float StartDelay = 3.f;
 
+	UFUNCTION(BlueprintCallable)
 	void HandleGameStart();
 
 	int32 TargetTowers = 0;
