@@ -59,7 +59,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABasePawn); \
 
 
 #define ToonTanks_Source_ToonTanks_BasePawn_h_12_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__BoxComp() { return STRUCT_OFFSET(ABasePawn, BoxComp); } \
+	FORCEINLINE static uint32 __PPO__SphereComp() { return STRUCT_OFFSET(ABasePawn, SphereComp); } \
 	FORCEINLINE static uint32 __PPO__BaseMesh() { return STRUCT_OFFSET(ABasePawn, BaseMesh); } \
 	FORCEINLINE static uint32 __PPO__TurretMesh() { return STRUCT_OFFSET(ABasePawn, TurretMesh); } \
 	FORCEINLINE static uint32 __PPO__ProjectileSpawnPoint() { return STRUCT_OFFSET(ABasePawn, ProjectileSpawnPoint); } \

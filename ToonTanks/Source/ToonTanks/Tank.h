@@ -33,6 +33,9 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
+	UPROPERTY()
+	class USphereComponent* Collider;
+	
 private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	class USpringArmComponent* SpringArm;
@@ -51,9 +54,6 @@ private:
 
 	APlayerController* TankPlayerController;
 
-	UPROPERTY()
-	class UStaticMeshComponent* MeshComp;
-
 	UPROPERTY(EditAnywhere)
-	float Force = 1000.0f;
+	float Force = 100000.0f;
 };

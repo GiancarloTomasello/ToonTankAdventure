@@ -23,9 +23,10 @@ protected:
 	void Fire();
 
 private:
+
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	//class UCapsuleComponent* CapsuleComp;
-	class UBoxComponent* BoxComp;
+	class USphereComponent* SphereComp;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent* BaseMesh;

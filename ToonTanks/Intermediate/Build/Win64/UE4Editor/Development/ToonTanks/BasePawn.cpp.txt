@@ -1,10 +1,10 @@
 C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
 C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\BasePawn.h
 C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.generated.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
 C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Source\ToonTanks\Projectile.h
 C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Projectile.generated.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h

@@ -3,7 +3,7 @@
 
 #include "BasePawn.h"
 //#include "Components/CapsuleComponent.h"
-#include "Components/BoxComponent.h"
+#include "Components/SphereComponent.h"
 #include "Components/StaticMeshComponent.h"
 #include "Components/SceneComponent.h"
 #include "Projectile.h"
@@ -17,11 +17,11 @@ ABasePawn::ABasePawn()
 	PrimaryActorTick.bCanEverTick = true;
 
 	//CapsuleComp = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule Collider"));
-	BoxComp = CreateDefaultSubobject<UBoxComponent>(TEXT("Box Collider"));
-	RootComponent = BoxComp;
+	SphereComp = CreateDefaultSubobject<USphereComponent>(TEXT("Box Collider"));
+	RootComponent = SphereComp;
 
 	BaseMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Base Mesh"));
-	BaseMesh->SetupAttachment(BoxComp);
+	BaseMesh->SetupAttachment(SphereComp);
 
 	TurretMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Turret Mesh"));
 	TurretMesh->SetupAttachment(BaseMesh);
