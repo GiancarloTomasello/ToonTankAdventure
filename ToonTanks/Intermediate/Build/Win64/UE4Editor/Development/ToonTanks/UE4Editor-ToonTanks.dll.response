@@ -35,6 +35,7 @@
 /FUNCTIONPADMIN
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\ToonTanksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\BasePawn.cpp.obj"
+"C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\EnemyDoor.cpp.obj"
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\HealthComponent.cpp.obj"
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Projectile.cpp.obj"
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Tank.cpp.obj"
@@ -43,6 +44,7 @@
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\ToonTanksGameMode.cpp.obj"
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Tower.cpp.obj"
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\BasePawn.gen.cpp.obj"
+"C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\EnemyDoor.gen.cpp.obj"
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\HealthComponent.gen.cpp.obj"
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Projectile.gen.cpp.obj"
 "C:\Users\Luigi\Documents\Unreal Projects\ToonTankAdventure\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Tank.gen.cpp.obj"

@@ -74,7 +74,7 @@ void ATank::Move(float Value)
 
     FVector ForwardVector = GetActorForwardVector();
 
-    UE_LOG(LogTemp, Warning, TEXT("Vector X:%f Y:%f Z:%f"), ForwardVector.X, ForwardVector.Y, ForwardVector.Z);
+   //UE_LOG(LogTemp, Warning, TEXT("Vector X:%f Y:%f Z:%f"), ForwardVector.X, ForwardVector.Y, ForwardVector.Z);
 
     if(Collider){
         Collider->AddForce(Value * ForwardVector * Force, FName(), true);

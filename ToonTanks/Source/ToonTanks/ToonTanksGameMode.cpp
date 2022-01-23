@@ -5,6 +5,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "Tank.h"
 #include "Tower.h"
+#include "EnemyDoor.h"
 #include "ToonTankPlayerController.h"
 
 void AToonTanksGameMode::ActorDied(AActor* DeadActor)
@@ -25,6 +26,14 @@ void AToonTanksGameMode::ActorDied(AActor* DeadActor)
         if(TargetTowers == 0)
         {
             GameOver(true);
+        }
+
+        UE_LOG(LogTemp, Warning, TEXT("Game Mode Actor Dies"))
+        TArray<AActor*> EnemyDoors;
+        UGameplayStatics::GetAllActorsOfClass(this, AEnemyDoor::StaticClass(), EnemyDoors);
+        for(AActor *door : EnemyDoors){
+            AEnemyDoor* oneDoor = Cast<AEnemyDoor>(door);
+            oneDoor->UpdateList(DeadActor);
         }
     }
 }
